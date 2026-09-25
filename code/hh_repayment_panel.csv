@@ -1,0 +1,601 @@
+quarter,series,region,label,value
+2015Q1,all,Akmola,Ақмола,34401.0
+2015Q1,all,Aktobe,Ақтөбе,27241.0
+2015Q1,all,Almaty oblast,Алматы,15699.0
+2015Q1,all,Atyrau,Атырау,25994.0
+2015Q1,all,West Kazakhstan,Батыс Қазақстан,17389.0
+2015Q1,all,Zhambyl,Жамбыл,4190.0
+2015Q1,all,Karaganda,Қарағанды,37785.0
+2015Q1,all,Kostanay,Қостанай,20995.0
+2015Q1,all,Kyzylorda,Қызылорда,27229.0
+2015Q1,all,Mangistau,Маңғыстау,12750.0
+2015Q1,all,Pavlodar,Павлодар,8127.0
+2015Q1,all,North Kazakhstan,Солтүстік Қазақстан,20401.0
+2015Q1,all,East Kazakhstan,Шығыс Қазақстан,17084.0
+2015Q1,all,Astana,Астана қаласы,4806.0
+2015Q1,all,Almaty city,Алматы қаласы,10251.0
+2015Q1,urban,Akmola,Ақмола,40430.0
+2015Q1,urban,Aktobe,Ақтөбе,25707.0
+2015Q1,urban,Almaty oblast,Алматы,15422.0
+2015Q1,urban,Atyrau,Атырау,33943.0
+2015Q1,urban,West Kazakhstan,Батыс Қазақстан,19342.0
+2015Q1,urban,Zhambyl,Жамбыл,7351.0
+2015Q1,urban,Karaganda,Қарағанды,36235.0
+2015Q1,urban,Kostanay,Қостанай,24442.0
+2015Q1,urban,Kyzylorda,Қызылорда,47117.0
+2015Q1,urban,Mangistau,Маңғыстау,12671.0
+2015Q1,urban,Pavlodar,Павлодар,5429.0
+2015Q1,urban,North Kazakhstan,Солтүстік Қазақстан,28594.0
+2015Q1,urban,East Kazakhstan,Шығыс Қазақстан,21592.0
+2015Q1,urban,Astana,Астана қаласы,4806.0
+2015Q1,urban,Almaty city,Алматы қаласы,10251.0
+2015Q2,all,Akmola,Ақмола,34492.0
+2015Q2,all,Aktobe,Ақтөбе,25188.0
+2015Q2,all,Almaty oblast,Алматы,12251.0
+2015Q2,all,Atyrau,Атырау,27040.0
+2015Q2,all,West Kazakhstan,Батыс Қазақстан,18450.0
+2015Q2,all,Zhambyl,Жамбыл,4718.0
+2015Q2,all,Karaganda,Қарағанды,40008.0
+2015Q2,all,Kostanay,Қостанай,20130.0
+2015Q2,all,Kyzylorda,Қызылорда,28226.0
+2015Q2,all,Mangistau,Маңғыстау,14024.0
+2015Q2,all,Pavlodar,Павлодар,7480.0
+2015Q2,all,North Kazakhstan,Солтүстік Қазақстан,20702.0
+2015Q2,all,East Kazakhstan,Шығыс Қазақстан,16019.0
+2015Q2,all,Astana,Астана қаласы,6784.0
+2015Q2,all,Almaty city,Алматы қаласы,10059.0
+2015Q2,urban,Akmola,Ақмола,43122.0
+2015Q2,urban,Aktobe,Ақтөбе,22431.0
+2015Q2,urban,Almaty oblast,Алматы,5336.0
+2015Q2,urban,Atyrau,Атырау,33928.0
+2015Q2,urban,West Kazakhstan,Батыс Қазақстан,21284.0
+2015Q2,urban,Zhambyl,Жамбыл,6374.0
+2015Q2,urban,Karaganda,Қарағанды,38095.0
+2015Q2,urban,Kostanay,Қостанай,23087.0
+2015Q2,urban,Kyzylorda,Қызылорда,48811.0
+2015Q2,urban,Mangistau,Маңғыстау,13900.0
+2015Q2,urban,Pavlodar,Павлодар,4790.0
+2015Q2,urban,North Kazakhstan,Солтүстік Қазақстан,27023.0
+2015Q2,urban,East Kazakhstan,Шығыс Қазақстан,21411.0
+2015Q2,urban,Astana,Астана қаласы,6784.0
+2015Q2,urban,Almaty city,Алматы қаласы,10059.0
+2015Q3,all,Akmola,Ақмола,35459.0
+2015Q3,all,Aktobe,Ақтөбе,24710.0
+2015Q3,all,Almaty oblast,Алматы,14070.0
+2015Q3,all,Atyrau,Атырау,27263.0
+2015Q3,all,West Kazakhstan,Батыс Қазақстан,19863.0
+2015Q3,all,Zhambyl,Жамбыл,3444.0
+2015Q3,all,Karaganda,Қарағанды,38471.0
+2015Q3,all,Kostanay,Қостанай,21086.0
+2015Q3,all,Kyzylorda,Қызылорда,28753.0
+2015Q3,all,Mangistau,Маңғыстау,13828.0
+2015Q3,all,Pavlodar,Павлодар,6390.0
+2015Q3,all,North Kazakhstan,Солтүстік Қазақстан,20801.0
+2015Q3,all,East Kazakhstan,Шығыс Қазақстан,14681.0
+2015Q3,all,Astana,Астана қаласы,2253.0
+2015Q3,all,Almaty city,Алматы қаласы,4835.0
+2015Q3,urban,Akmola,Ақмола,47352.0
+2015Q3,urban,Aktobe,Ақтөбе,22901.0
+2015Q3,urban,Almaty oblast,Алматы,13165.0
+2015Q3,urban,Atyrau,Атырау,31604.0
+2015Q3,urban,West Kazakhstan,Батыс Қазақстан,22352.0
+2015Q3,urban,Zhambyl,Жамбыл,5159.0
+2015Q3,urban,Karaganda,Қарағанды,36565.0
+2015Q3,urban,Kostanay,Қостанай,23760.0
+2015Q3,urban,Kyzylorda,Қызылорда,49022.0
+2015Q3,urban,Mangistau,Маңғыстау,15017.0
+2015Q3,urban,Pavlodar,Павлодар,4042.0
+2015Q3,urban,North Kazakhstan,Солтүстік Қазақстан,27446.0
+2015Q3,urban,East Kazakhstan,Шығыс Қазақстан,20689.0
+2015Q3,urban,Astana,Астана қаласы,2253.0
+2015Q3,urban,Almaty city,Алматы қаласы,4835.0
+2015Q4,all,Akmola,Ақмола,32435.0
+2015Q4,all,Aktobe,Ақтөбе,23705.0
+2015Q4,all,Almaty oblast,Алматы,16464.0
+2015Q4,all,Atyrau,Атырау,22339.0
+2015Q4,all,West Kazakhstan,Батыс Қазақстан,18240.0
+2015Q4,all,Zhambyl,Жамбыл,3828.0
+2015Q4,all,Karaganda,Қарағанды,39314.0
+2015Q4,all,Kostanay,Қостанай,20333.0
+2015Q4,all,Kyzylorda,Қызылорда,27541.0
+2015Q4,all,Mangistau,Маңғыстау,13183.0
+2015Q4,all,Pavlodar,Павлодар,6349.0
+2015Q4,all,North Kazakhstan,Солтүстік Қазақстан,21344.0
+2015Q4,all,East Kazakhstan,Шығыс Қазақстан,14109.0
+2015Q4,all,Astana,Астана қаласы,1329.0
+2015Q4,all,Almaty city,Алматы қаласы,4803.0
+2015Q4,urban,Akmola,Ақмола,43072.0
+2015Q4,urban,Aktobe,Ақтөбе,20653.0
+2015Q4,urban,Almaty oblast,Алматы,14905.0
+2015Q4,urban,Atyrau,Атырау,25164.0
+2015Q4,urban,West Kazakhstan,Батыс Қазақстан,18776.0
+2015Q4,urban,Zhambyl,Жамбыл,6377.0
+2015Q4,urban,Karaganda,Қарағанды,36947.0
+2015Q4,urban,Kostanay,Қостанай,23650.0
+2015Q4,urban,Kyzylorda,Қызылорда,49067.0
+2015Q4,urban,Mangistau,Маңғыстау,14625.0
+2015Q4,urban,Pavlodar,Павлодар,3856.0
+2015Q4,urban,North Kazakhstan,Солтүстік Қазақстан,28664.0
+2015Q4,urban,East Kazakhstan,Шығыс Қазақстан,18819.0
+2015Q4,urban,Astana,Астана қаласы,1329.0
+2015Q4,urban,Almaty city,Алматы қаласы,4803.0
+2016Q1,all,Akmola,Ақмола,35737.0
+2016Q1,all,Aktobe,Ақтөбе,25976.0
+2016Q1,all,Almaty oblast,Алматы,15733.0
+2016Q1,all,Atyrau,Атырау,28622.0
+2016Q1,all,West Kazakhstan,Батыс Қазақстан,21954.0
+2016Q1,all,Zhambyl,Жамбыл,4861.0
+2016Q1,all,Karaganda,Қарағанды,38429.0
+2016Q1,all,Kostanay,Қостанай,18662.0
+2016Q1,all,Kyzylorda,Қызылорда,29196.0
+2016Q1,all,Mangistau,Маңғыстау,14926.0
+2016Q1,all,Pavlodar,Павлодар,5374.0
+2016Q1,all,North Kazakhstan,Солтүстік Қазақстан,22296.0
+2016Q1,all,East Kazakhstan,Шығыс Қазақстан,15827.0
+2016Q1,all,Astana,Астана қаласы,2483.0
+2016Q1,all,Almaty city,Алматы қаласы,9025.0
+2016Q1,urban,Akmola,Ақмола,50133.0
+2016Q1,urban,Aktobe,Ақтөбе,22305.0
+2016Q1,urban,Almaty oblast,Алматы,14347.0
+2016Q1,urban,Atyrau,Атырау,36206.0
+2016Q1,urban,West Kazakhstan,Батыс Қазақстан,27362.0
+2016Q1,urban,Zhambyl,Жамбыл,4585.0
+2016Q1,urban,Karaganda,Қарағанды,37279.0
+2016Q1,urban,Kostanay,Қостанай,19967.0
+2016Q1,urban,Kyzylorda,Қызылорда,48985.0
+2016Q1,urban,Mangistau,Маңғыстау,17545.0
+2016Q1,urban,Pavlodar,Павлодар,2092.0
+2016Q1,urban,North Kazakhstan,Солтүстік Қазақстан,32910.0
+2016Q1,urban,East Kazakhstan,Шығыс Қазақстан,21617.0
+2016Q1,urban,Astana,Астана қаласы,2483.0
+2016Q1,urban,Almaty city,Алматы қаласы,9025.0
+2016Q2,all,Akmola,Ақмола,32809.0
+2016Q2,all,Aktobe,Ақтөбе,23745.0
+2016Q2,all,Almaty oblast,Алматы,15967.0
+2016Q2,all,Atyrau,Атырау,28623.0
+2016Q2,all,West Kazakhstan,Батыс Қазақстан,22064.0
+2016Q2,all,Zhambyl,Жамбыл,5152.0
+2016Q2,all,Karaganda,Қарағанды,39400.0
+2016Q2,all,Kostanay,Қостанай,18950.0
+2016Q2,all,Kyzylorda,Қызылорда,27432.0
+2016Q2,all,Mangistau,Маңғыстау,14416.0
+2016Q2,all,Pavlodar,Павлодар,5575.0
+2016Q2,all,North Kazakhstan,Солтүстік Қазақстан,18988.0
+2016Q2,all,East Kazakhstan,Шығыс Қазақстан,15205.0
+2016Q2,all,Astana,Астана қаласы,2111.0
+2016Q2,all,Almaty city,Алматы қаласы,7842.0
+2016Q2,urban,Akmola,Ақмола,40973.0
+2016Q2,urban,Aktobe,Ақтөбе,20587.0
+2016Q2,urban,Almaty oblast,Алматы,12890.0
+2016Q2,urban,Atyrau,Атырау,38322.0
+2016Q2,urban,West Kazakhstan,Батыс Қазақстан,27563.0
+2016Q2,urban,Zhambyl,Жамбыл,5677.0
+2016Q2,urban,Karaganda,Қарағанды,38702.0
+2016Q2,urban,Kostanay,Қостанай,21236.0
+2016Q2,urban,Kyzylorda,Қызылорда,46911.0
+2016Q2,urban,Mangistau,Маңғыстау,17484.0
+2016Q2,urban,Pavlodar,Павлодар,2415.0
+2016Q2,urban,North Kazakhstan,Солтүстік Қазақстан,28051.0
+2016Q2,urban,East Kazakhstan,Шығыс Қазақстан,20624.0
+2016Q2,urban,Astana,Астана қаласы,2111.0
+2016Q2,urban,Almaty city,Алматы қаласы,7842.0
+2016Q3,all,Akmola,Ақмола,35315.0
+2016Q3,all,Aktobe,Ақтөбе,22992.0
+2016Q3,all,Almaty oblast,Алматы,15440.0
+2016Q3,all,Atyrau,Атырау,25056.0
+2016Q3,all,West Kazakhstan,Батыс Қазақстан,20801.0
+2016Q3,all,Zhambyl,Жамбыл,5593.0
+2016Q3,all,Karaganda,Қарағанды,34009.0
+2016Q3,all,Kostanay,Қостанай,20930.0
+2016Q3,all,Kyzylorda,Қызылорда,27504.0
+2016Q3,all,Mangistau,Маңғыстау,13803.0
+2016Q3,all,Pavlodar,Павлодар,5395.0
+2016Q3,all,North Kazakhstan,Солтүстік Қазақстан,17152.0
+2016Q3,all,East Kazakhstan,Шығыс Қазақстан,17175.0
+2016Q3,all,Astana,Астана қаласы,2302.0
+2016Q3,all,Almaty city,Алматы қаласы,6927.0
+2016Q3,urban,Akmola,Ақмола,45882.0
+2016Q3,urban,Aktobe,Ақтөбе,20449.0
+2016Q3,urban,Almaty oblast,Алматы,5457.0
+2016Q3,urban,Atyrau,Атырау,32925.0
+2016Q3,urban,West Kazakhstan,Батыс Қазақстан,25922.0
+2016Q3,urban,Zhambyl,Жамбыл,5961.0
+2016Q3,urban,Karaganda,Қарағанды,32352.0
+2016Q3,urban,Kostanay,Қостанай,22495.0
+2016Q3,urban,Kyzylorda,Қызылорда,44958.0
+2016Q3,urban,Mangistau,Маңғыстау,17533.0
+2016Q3,urban,Pavlodar,Павлодар,3503.0
+2016Q3,urban,North Kazakhstan,Солтүстік Қазақстан,22973.0
+2016Q3,urban,East Kazakhstan,Шығыс Қазақстан,23878.0
+2016Q3,urban,Astana,Астана қаласы,2302.0
+2016Q3,urban,Almaty city,Алматы қаласы,6927.0
+2016Q4,all,Akmola,Ақмола,31714.0
+2016Q4,all,Aktobe,Ақтөбе,22827.0
+2016Q4,all,Almaty oblast,Алматы,13765.0
+2016Q4,all,Atyrau,Атырау,23771.0
+2016Q4,all,West Kazakhstan,Батыс Қазақстан,21610.0
+2016Q4,all,Zhambyl,Жамбыл,4083.0
+2016Q4,all,Karaganda,Қарағанды,33798.0
+2016Q4,all,Kostanay,Қостанай,17425.0
+2016Q4,all,Kyzylorda,Қызылорда,25385.0
+2016Q4,all,Mangistau,Маңғыстау,10103.0
+2016Q4,all,Pavlodar,Павлодар,4060.0
+2016Q4,all,North Kazakhstan,Солтүстік Қазақстан,18970.0
+2016Q4,all,East Kazakhstan,Шығыс Қазақстан,16176.0
+2016Q4,all,Astana,Астана қаласы,2404.0
+2016Q4,all,Almaty city,Алматы қаласы,7768.0
+2016Q4,urban,Akmola,Ақмола,40629.0
+2016Q4,urban,Aktobe,Ақтөбе,19600.0
+2016Q4,urban,Almaty oblast,Алматы,7268.0
+2016Q4,urban,Atyrau,Атырау,32843.0
+2016Q4,urban,West Kazakhstan,Батыс Қазақстан,25232.0
+2016Q4,urban,Zhambyl,Жамбыл,4632.0
+2016Q4,urban,Karaganda,Қарағанды,31830.0
+2016Q4,urban,Kostanay,Қостанай,19616.0
+2016Q4,urban,Kyzylorda,Қызылорда,41678.0
+2016Q4,urban,Mangistau,Маңғыстау,14235.0
+2016Q4,urban,Pavlodar,Павлодар,2724.0
+2016Q4,urban,North Kazakhstan,Солтүстік Қазақстан,25301.0
+2016Q4,urban,East Kazakhstan,Шығыс Қазақстан,22070.0
+2016Q4,urban,Astana,Астана қаласы,2404.0
+2016Q4,urban,Almaty city,Алматы қаласы,7768.0
+2017Q1,all,Akmola,Ақмола,35814.0
+2017Q1,all,Aktobe,Ақтөбе,31027.0
+2017Q1,all,Almaty oblast,Алматы,14959.0
+2017Q1,all,Atyrau,Атырау,40455.0
+2017Q1,all,West Kazakhstan,Батыс Қазақстан,26410.0
+2017Q1,all,Zhambyl,Жамбыл,5747.0
+2017Q1,all,Karaganda,Қарағанды,45356.0
+2017Q1,all,Kostanay,Қостанай,20350.0
+2017Q1,all,Kyzylorda,Қызылорда,26016.0
+2017Q1,all,Mangistau,Маңғыстау,5143.0
+2017Q1,all,Pavlodar,Павлодар,17598.0
+2017Q1,all,North Kazakhstan,Солтүстік Қазақстан,22560.0
+2017Q1,all,East Kazakhstan,Шығыс Қазақстан,25447.0
+2017Q1,all,Astana,Астана қаласы,7394.0
+2017Q1,all,Almaty city,Алматы қаласы,13219.0
+2017Q1,urban,Akmola,Ақмола,43499.0
+2017Q1,urban,Aktobe,Ақтөбе,31484.0
+2017Q1,urban,Almaty oblast,Алматы,12697.0
+2017Q1,urban,Atyrau,Атырау,47526.0
+2017Q1,urban,West Kazakhstan,Батыс Қазақстан,30340.0
+2017Q1,urban,Zhambyl,Жамбыл,6798.0
+2017Q1,urban,Karaganda,Қарағанды,43833.0
+2017Q1,urban,Kostanay,Қостанай,22188.0
+2017Q1,urban,Kyzylorda,Қызылорда,31325.0
+2017Q1,urban,Mangistau,Маңғыстау,6520.0
+2017Q1,urban,Pavlodar,Павлодар,17799.0
+2017Q1,urban,North Kazakhstan,Солтүстік Қазақстан,31835.0
+2017Q1,urban,East Kazakhstan,Шығыс Қазақстан,33406.0
+2017Q1,urban,Astana,Астана қаласы,7394.0
+2017Q1,urban,Almaty city,Алматы қаласы,13219.0
+2017Q2,all,Akmola,Ақмола,35489.0
+2017Q2,all,Aktobe,Ақтөбе,26993.0
+2017Q2,all,Almaty oblast,Алматы,18058.0
+2017Q2,all,Atyrau,Атырау,40649.0
+2017Q2,all,West Kazakhstan,Батыс Қазақстан,30658.0
+2017Q2,all,Zhambyl,Жамбыл,5861.0
+2017Q2,all,Karaganda,Қарағанды,43930.0
+2017Q2,all,Kostanay,Қостанай,21034.0
+2017Q2,all,Kyzylorda,Қызылорда,26275.0
+2017Q2,all,Mangistau,Маңғыстау,2538.0
+2017Q2,all,Pavlodar,Павлодар,14311.0
+2017Q2,all,North Kazakhstan,Солтүстік Қазақстан,22528.0
+2017Q2,all,East Kazakhstan,Шығыс Қазақстан,22911.0
+2017Q2,all,Astana,Астана қаласы,17134.0
+2017Q2,all,Almaty city,Алматы қаласы,10294.0
+2017Q2,urban,Akmola,Ақмола,43072.0
+2017Q2,urban,Aktobe,Ақтөбе,22568.0
+2017Q2,urban,Almaty oblast,Алматы,24193.0
+2017Q2,urban,Atyrau,Атырау,48385.0
+2017Q2,urban,West Kazakhstan,Батыс Қазақстан,40626.0
+2017Q2,urban,Zhambyl,Жамбыл,5898.0
+2017Q2,urban,Karaganda,Қарағанды,43198.0
+2017Q2,urban,Kostanay,Қостанай,24394.0
+2017Q2,urban,Kyzylorda,Қызылорда,33572.0
+2017Q2,urban,Mangistau,Маңғыстау,1236.0
+2017Q2,urban,Pavlodar,Павлодар,14170.0
+2017Q2,urban,North Kazakhstan,Солтүстік Қазақстан,35254.0
+2017Q2,urban,East Kazakhstan,Шығыс Қазақстан,28911.0
+2017Q2,urban,Astana,Астана қаласы,17134.0
+2017Q2,urban,Almaty city,Алматы қаласы,10294.0
+2017Q3,all,Akmola,Ақмола,34209.0
+2017Q3,all,Aktobe,Ақтөбе,27671.0
+2017Q3,all,Almaty oblast,Алматы,16101.0
+2017Q3,all,Atyrau,Атырау,35614.0
+2017Q3,all,West Kazakhstan,Батыс Қазақстан,34146.0
+2017Q3,all,Zhambyl,Жамбыл,5504.0
+2017Q3,all,Karaganda,Қарағанды,43122.0
+2017Q3,all,Kostanay,Қостанай,18491.0
+2017Q3,all,Kyzylorda,Қызылорда,28496.0
+2017Q3,all,Mangistau,Маңғыстау,8929.0
+2017Q3,all,Pavlodar,Павлодар,13372.0
+2017Q3,all,North Kazakhstan,Солтүстік Қазақстан,20942.0
+2017Q3,all,East Kazakhstan,Шығыс Қазақстан,23453.0
+2017Q3,all,Astana,Астана қаласы,14346.0
+2017Q3,all,Almaty city,Алматы қаласы,11335.0
+2017Q3,urban,Akmola,Ақмола,40525.0
+2017Q3,urban,Aktobe,Ақтөбе,24285.0
+2017Q3,urban,Almaty oblast,Алматы,16822.0
+2017Q3,urban,Atyrau,Атырау,43228.0
+2017Q3,urban,West Kazakhstan,Батыс Қазақстан,51163.0
+2017Q3,urban,Zhambyl,Жамбыл,6381.0
+2017Q3,urban,Karaganda,Қарағанды,43346.0
+2017Q3,urban,Kostanay,Қостанай,20730.0
+2017Q3,urban,Kyzylorda,Қызылорда,38139.0
+2017Q3,urban,Mangistau,Маңғыстау,7964.0
+2017Q3,urban,Pavlodar,Павлодар,12420.0
+2017Q3,urban,North Kazakhstan,Солтүстік Қазақстан,30439.0
+2017Q3,urban,East Kazakhstan,Шығыс Қазақстан,29220.0
+2017Q3,urban,Astana,Астана қаласы,14346.0
+2017Q3,urban,Almaty city,Алматы қаласы,11335.0
+2017Q4,all,Akmola,Ақмола,35039.0
+2017Q4,all,Aktobe,Ақтөбе,22503.0
+2017Q4,all,Almaty oblast,Алматы,15907.0
+2017Q4,all,Atyrau,Атырау,39123.0
+2017Q4,all,West Kazakhstan,Батыс Қазақстан,29275.0
+2017Q4,all,Zhambyl,Жамбыл,5085.0
+2017Q4,all,Karaganda,Қарағанды,42256.0
+2017Q4,all,Kostanay,Қостанай,17801.0
+2017Q4,all,Kyzylorda,Қызылорда,23752.0
+2017Q4,all,Mangistau,Маңғыстау,5722.0
+2017Q4,all,Pavlodar,Павлодар,11416.0
+2017Q4,all,North Kazakhstan,Солтүстік Қазақстан,21998.0
+2017Q4,all,East Kazakhstan,Шығыс Қазақстан,21525.0
+2017Q4,all,Astana,Астана қаласы,19948.0
+2017Q4,all,Almaty city,Алматы қаласы,11763.0
+2017Q4,urban,Akmola,Ақмола,40725.0
+2017Q4,urban,Aktobe,Ақтөбе,17778.0
+2017Q4,urban,Almaty oblast,Алматы,18275.0
+2017Q4,urban,Atyrau,Атырау,49238.0
+2017Q4,urban,West Kazakhstan,Батыс Қазақстан,36071.0
+2017Q4,urban,Zhambyl,Жамбыл,5758.0
+2017Q4,urban,Karaganda,Қарағанды,41528.0
+2017Q4,urban,Kostanay,Қостанай,20791.0
+2017Q4,urban,Kyzylorda,Қызылорда,27874.0
+2017Q4,urban,Mangistau,Маңғыстау,5486.0
+2017Q4,urban,Pavlodar,Павлодар,10925.0
+2017Q4,urban,North Kazakhstan,Солтүстік Қазақстан,34839.0
+2017Q4,urban,East Kazakhstan,Шығыс Қазақстан,26934.0
+2017Q4,urban,Astana,Астана қаласы,19948.0
+2017Q4,urban,Almaty city,Алматы қаласы,11763.0
+2018Q1,all,Akmola,Ақмола,33470.0
+2018Q1,all,Aktobe,Ақтөбе,28077.0
+2018Q1,all,Almaty oblast,Алматы,13903.0
+2018Q1,all,Atyrau,Атырау,28294.0
+2018Q1,all,West Kazakhstan,Батыс Қазақстан,31995.0
+2018Q1,all,Zhambyl,Жамбыл,7435.0
+2018Q1,all,Karaganda,Қарағанды,56338.0
+2018Q1,all,Kostanay,Қостанай,20224.0
+2018Q1,all,Kyzylorda,Қызылорда,26257.0
+2018Q1,all,Mangistau,Маңғыстау,2479.0
+2018Q1,all,Pavlodar,Павлодар,20658.0
+2018Q1,all,North Kazakhstan,Солтүстік Қазақстан,25779.0
+2018Q1,all,East Kazakhstan,Шығыс Қазақстан,29488.0
+2018Q1,all,Astana,Астана қаласы,30483.0
+2018Q1,all,Almaty city,Алматы қаласы,12958.0
+2018Q1,urban,Akmola,Ақмола,43529.0
+2018Q1,urban,Aktobe,Ақтөбе,23504.0
+2018Q1,urban,Almaty oblast,Алматы,17500.0
+2018Q1,urban,Atyrau,Атырау,45254.0
+2018Q1,urban,West Kazakhstan,Батыс Қазақстан,35898.0
+2018Q1,urban,Zhambyl,Жамбыл,9937.0
+2018Q1,urban,Karaganda,Қарағанды,56082.0
+2018Q1,urban,Kostanay,Қостанай,21695.0
+2018Q1,urban,Kyzylorda,Қызылорда,23200.0
+2018Q1,urban,Mangistau,Маңғыстау,…
+2018Q1,urban,Pavlodar,Павлодар,19535.0
+2018Q1,urban,North Kazakhstan,Солтүстік Қазақстан,42807.0
+2018Q1,urban,East Kazakhstan,Шығыс Қазақстан,38799.0
+2018Q1,urban,Astana,Астана қаласы,30483.0
+2018Q1,urban,Almaty city,Алматы қаласы,12958.0
+2018Q2,all,Akmola,Ақмола,35783.0
+2018Q2,all,Aktobe,Ақтөбе,27560.0
+2018Q2,all,Almaty oblast,Алматы,18157.0
+2018Q2,all,Atyrau,Атырау,31234.0
+2018Q2,all,West Kazakhstan,Батыс Қазақстан,35942.0
+2018Q2,all,Zhambyl,Жамбыл,4319.0
+2018Q2,all,Karaganda,Қарағанды,52914.0
+2018Q2,all,Kostanay,Қостанай,20138.0
+2018Q2,all,Kyzylorda,Қызылорда,23347.0
+2018Q2,all,Mangistau,Маңғыстау,2842.0
+2018Q2,all,Pavlodar,Павлодар,17181.0
+2018Q2,all,North Kazakhstan,Солтүстік Қазақстан,27395.0
+2018Q2,all,East Kazakhstan,Шығыс Қазақстан,26981.0
+2018Q2,all,Astana,Астана қаласы,26145.0
+2018Q2,all,Almaty city,Алматы қаласы,13118.0
+2018Q2,urban,Akmola,Ақмола,43037.0
+2018Q2,urban,Aktobe,Ақтөбе,24351.0
+2018Q2,urban,Almaty oblast,Алматы,16979.0
+2018Q2,urban,Atyrau,Атырау,49414.0
+2018Q2,urban,West Kazakhstan,Батыс Қазақстан,43733.0
+2018Q2,urban,Zhambyl,Жамбыл,3922.0
+2018Q2,urban,Karaganda,Қарағанды,52647.0
+2018Q2,urban,Kostanay,Қостанай,20473.0
+2018Q2,urban,Kyzylorda,Қызылорда,19169.0
+2018Q2,urban,Mangistau,Маңғыстау,1461.0
+2018Q2,urban,Pavlodar,Павлодар,14424.0
+2018Q2,urban,North Kazakhstan,Солтүстік Қазақстан,45896.0
+2018Q2,urban,East Kazakhstan,Шығыс Қазақстан,35205.0
+2018Q2,urban,Astana,Астана қаласы,26145.0
+2018Q2,urban,Almaty city,Алматы қаласы,13118.0
+2018Q3,all,Akmola,Ақмола,34742.0
+2018Q3,all,Aktobe,Ақтөбе,28539.0
+2018Q3,all,Almaty oblast,Алматы,21652.0
+2018Q3,all,Atyrau,Атырау,34251.0
+2018Q3,all,West Kazakhstan,Батыс Қазақстан,44692.0
+2018Q3,all,Zhambyl,Жамбыл,6322.0
+2018Q3,all,Karaganda,Қарағанды,51178.0
+2018Q3,all,Kostanay,Қостанай,19093.0
+2018Q3,all,Kyzylorda,Қызылорда,24425.0
+2018Q3,all,Mangistau,Маңғыстау,1435.0
+2018Q3,all,Pavlodar,Павлодар,16860.0
+2018Q3,all,North Kazakhstan,Солтүстік Қазақстан,26158.0
+2018Q3,all,East Kazakhstan,Шығыс Қазақстан,25235.0
+2018Q3,all,Astana,Астана қаласы,29925.0
+2018Q3,all,Almaty city,Алматы қаласы,11777.0
+2018Q3,urban,Akmola,Ақмола,43932.0
+2018Q3,urban,Aktobe,Ақтөбе,24313.0
+2018Q3,urban,Almaty oblast,Алматы,24685.0
+2018Q3,urban,Atyrau,Атырау,49296.0
+2018Q3,urban,West Kazakhstan,Батыс Қазақстан,58229.0
+2018Q3,urban,Zhambyl,Жамбыл,8706.0
+2018Q3,urban,Karaganda,Қарағанды,50155.0
+2018Q3,urban,Kostanay,Қостанай,19240.0
+2018Q3,urban,Kyzylorda,Қызылорда,17720.0
+2018Q3,urban,Mangistau,Маңғыстау,66.0
+2018Q3,urban,Pavlodar,Павлодар,14842.0
+2018Q3,urban,North Kazakhstan,Солтүстік Қазақстан,40116.0
+2018Q3,urban,East Kazakhstan,Шығыс Қазақстан,33382.0
+2018Q3,urban,Astana,Астана қаласы,29925.0
+2018Q3,urban,Almaty city,Алматы қаласы,11777.0
+2018Q4,all,Akmola,Ақмола,36641.0
+2018Q4,all,Aktobe,Ақтөбе,25276.0
+2018Q4,all,Almaty oblast,Алматы,21212.0
+2018Q4,all,Atyrau,Атырау,31653.0
+2018Q4,all,West Kazakhstan,Батыс Қазақстан,31542.0
+2018Q4,all,Zhambyl,Жамбыл,9731.0
+2018Q4,all,Karaganda,Қарағанды,50749.0
+2018Q4,all,Kostanay,Қостанай,18752.0
+2018Q4,all,Kyzylorda,Қызылорда,25382.0
+2018Q4,all,Mangistau,Маңғыстау,1507.0
+2018Q4,all,Pavlodar,Павлодар,17640.0
+2018Q4,all,North Kazakhstan,Солтүстік Қазақстан,25654.0
+2018Q4,all,East Kazakhstan,Шығыс Қазақстан,22676.0
+2018Q4,all,Astana,Астана қаласы,28656.0
+2018Q4,all,Almaty city,Алматы қаласы,13416.0
+2018Q4,urban,Akmola,Ақмола,43620.0
+2018Q4,urban,Aktobe,Ақтөбе,21241.0
+2018Q4,urban,Almaty oblast,Алматы,20659.0
+2018Q4,urban,Atyrau,Атырау,47478.0
+2018Q4,urban,West Kazakhstan,Батыс Қазақстан,35691.0
+2018Q4,urban,Zhambyl,Жамбыл,15892.0
+2018Q4,urban,Karaganda,Қарағанды,50527.0
+2018Q4,urban,Kostanay,Қостанай,17755.0
+2018Q4,urban,Kyzylorda,Қызылорда,16532.0
+2018Q4,urban,Mangistau,Маңғыстау,…
+2018Q4,urban,Pavlodar,Павлодар,16309.0
+2018Q4,urban,North Kazakhstan,Солтүстік Қазақстан,38455.0
+2018Q4,urban,East Kazakhstan,Шығыс Қазақстан,30346.0
+2018Q4,urban,Astana,Астана қаласы,28656.0
+2018Q4,urban,Almaty city,Алматы қаласы,13416.0
+2019Q1,all,Akmola,Ақмола,47308.0
+2019Q1,all,Aktobe,Ақтөбе,33477.0
+2019Q1,all,Almaty oblast,Алматы,25557.0
+2019Q1,all,Atyrau,Атырау,34696.0
+2019Q1,all,West Kazakhstan,Батыс Қазақстан,31826.0
+2019Q1,all,Zhambyl,Жамбыл,25356.0
+2019Q1,all,Karaganda,Қарағанды,65994.0
+2019Q1,all,Kostanay,Қостанай,19875.0
+2019Q1,all,Kyzylorda,Қызылорда,36762.0
+2019Q1,all,Mangistau,Маңғыстау,2838.0
+2019Q1,all,Pavlodar,Павлодар,27793.0
+2019Q1,all,North Kazakhstan,Солтүстік Қазақстан,33524.0
+2019Q1,all,East Kazakhstan,Шығыс Қазақстан,28907.0
+2019Q1,all,Astana,Нұр-Сұлтан қаласы,33345.0
+2019Q1,all,Almaty city,Алматы қаласы,21064.0
+2019Q1,urban,Akmola,Ақмола,56181.0
+2019Q1,urban,Aktobe,Ақтөбе,35563.0
+2019Q1,urban,Almaty oblast,Алматы,22202.0
+2019Q1,urban,Atyrau,Атырау,46594.0
+2019Q1,urban,West Kazakhstan,Батыс Қазақстан,32915.0
+2019Q1,urban,Zhambyl,Жамбыл,42507.0
+2019Q1,urban,Karaganda,Қарағанды,67107.0
+2019Q1,urban,Kostanay,Қостанай,20886.0
+2019Q1,urban,Kyzylorda,Қызылорда,24851.0
+2019Q1,urban,Mangistau,Маңғыстау,3812.0
+2019Q1,urban,Pavlodar,Павлодар,28364.0
+2019Q1,urban,North Kazakhstan,Солтүстік Қазақстан,52573.0
+2019Q1,urban,East Kazakhstan,Шығыс Қазақстан,35988.0
+2019Q1,urban,Astana,Нұр-Сұлтан қаласы,33345.0
+2019Q1,urban,Almaty city,Алматы қаласы,21064.0
+2019Q2,all,Akmola,Ақмола,45260.0
+2019Q2,all,Aktobe,Ақтөбе,30452.0
+2019Q2,all,Almaty oblast,Алматы,23864.0
+2019Q2,all,Atyrau,Атырау,37935.0
+2019Q2,all,West Kazakhstan,Батыс Қазақстан,30256.0
+2019Q2,all,Zhambyl,Жамбыл,18671.0
+2019Q2,all,Karaganda,Қарағанды,65235.0
+2019Q2,all,Kostanay,Қостанай,19978.0
+2019Q2,all,Kyzylorda,Қызылорда,42556.0
+2019Q2,all,Mangistau,Маңғыстау,2691.0
+2019Q2,all,Pavlodar,Павлодар,24142.0
+2019Q2,all,North Kazakhstan,Солтүстік Қазақстан,30982.0
+2019Q2,all,East Kazakhstan,Шығыс Қазақстан,24430.0
+2019Q2,all,Astana,Нұр-Сұлтан қаласы,32832.0
+2019Q2,all,Almaty city,Алматы қаласы,11095.0
+2019Q2,urban,Akmola,Ақмола,51932.0
+2019Q2,urban,Aktobe,Ақтөбе,32391.0
+2019Q2,urban,Almaty oblast,Алматы,27245.0
+2019Q2,urban,Atyrau,Атырау,52053.0
+2019Q2,urban,West Kazakhstan,Батыс Қазақстан,32762.0
+2019Q2,urban,Zhambyl,Жамбыл,29031.0
+2019Q2,urban,Karaganda,Қарағанды,66487.0
+2019Q2,urban,Kostanay,Қостанай,20365.0
+2019Q2,urban,Kyzylorda,Қызылорда,32800.0
+2019Q2,urban,Mangistau,Маңғыстау,1606.0
+2019Q2,urban,Pavlodar,Павлодар,22338.0
+2019Q2,urban,North Kazakhstan,Солтүстік Қазақстан,47295.0
+2019Q2,urban,East Kazakhstan,Шығыс Қазақстан,31409.0
+2019Q2,urban,Astana,Нұр-Сұлтан қаласы,32832.0
+2019Q2,urban,Almaty city,Алматы қаласы,11095.0
+2019Q3,all,Akmola,Ақмола,46091.0
+2019Q3,all,Aktobe,Ақтөбе,29095.0
+2019Q3,all,Almaty oblast,Алматы,24067.0
+2019Q3,all,Atyrau,Атырау,34456.0
+2019Q3,all,West Kazakhstan,Батыс Қазақстан,24464.0
+2019Q3,all,Zhambyl,Жамбыл,22458.0
+2019Q3,all,Karaganda,Қарағанды,61974.0
+2019Q3,all,Kostanay,Қостанай,20873.0
+2019Q3,all,Kyzylorda,Қызылорда,39422.0
+2019Q3,all,Mangistau,Маңғыстау,3225.0
+2019Q3,all,Pavlodar,Павлодар,26773.0
+2019Q3,all,North Kazakhstan,Солтүстік Қазақстан,32120.0
+2019Q3,all,East Kazakhstan,Шығыс Қазақстан,21629.0
+2019Q3,all,Astana,Нұр-Сұлтан қаласы,33053.0
+2019Q3,all,Almaty city,Алматы қаласы,5856.0
+2019Q3,urban,Akmola,Ақмола,55345.0
+2019Q3,urban,Aktobe,Ақтөбе,31817.0
+2019Q3,urban,Almaty oblast,Алматы,37799.0
+2019Q3,urban,Atyrau,Атырау,47801.0
+2019Q3,urban,West Kazakhstan,Батыс Қазақстан,24832.0
+2019Q3,urban,Zhambyl,Жамбыл,28684.0
+2019Q3,urban,Karaganda,Қарағанды,63162.0
+2019Q3,urban,Kostanay,Қостанай,21536.0
+2019Q3,urban,Kyzylorda,Қызылорда,29024.0
+2019Q3,urban,Mangistau,Маңғыстау,1484.0
+2019Q3,urban,Pavlodar,Павлодар,25045.0
+2019Q3,urban,North Kazakhstan,Солтүстік Қазақстан,46862.0
+2019Q3,urban,East Kazakhstan,Шығыс Қазақстан,26148.0
+2019Q3,urban,Astana,Нұр-Сұлтан қаласы,33053.0
+2019Q3,urban,Almaty city,Алматы қаласы,5856.0
+2019Q4,all,Akmola,Ақмола,48570.0
+2019Q4,all,Aktobe,Ақтөбе,32196.0
+2019Q4,all,Almaty oblast,Алматы,20681.0
+2019Q4,all,Atyrau,Атырау,36834.0
+2019Q4,all,West Kazakhstan,Батыс Қазақстан,22321.0
+2019Q4,all,Zhambyl,Жамбыл,17178.0
+2019Q4,all,Karaganda,Қарағанды,65188.0
+2019Q4,all,Kostanay,Қостанай,20740.0
+2019Q4,all,Kyzylorda,Қызылорда,36450.0
+2019Q4,all,Mangistau,Маңғыстау,2807.0
+2019Q4,all,Pavlodar,Павлодар,22777.0
+2019Q4,all,North Kazakhstan,Солтүстік Қазақстан,32352.0
+2019Q4,all,East Kazakhstan,Шығыс Қазақстан,22608.0
+2019Q4,all,Astana,Нұр-Сұлтан қаласы,29856.0
+2019Q4,all,Almaty city,Алматы қаласы,3645.0
+2019Q4,urban,Akmola,Ақмола,56193.0
+2019Q4,urban,Aktobe,Ақтөбе,33968.0
+2019Q4,urban,Almaty oblast,Алматы,31468.0
+2019Q4,urban,Atyrau,Атырау,53968.0
+2019Q4,urban,West Kazakhstan,Батыс Қазақстан,20569.0
+2019Q4,urban,Zhambyl,Жамбыл,22524.0
+2019Q4,urban,Karaganda,Қарағанды,66126.0
+2019Q4,urban,Kostanay,Қостанай,20481.0
+2019Q4,urban,Kyzylorda,Қызылорда,26606.0
+2019Q4,urban,Mangistau,Маңғыстау,997.0
+2019Q4,urban,Pavlodar,Павлодар,20483.0
+2019Q4,urban,North Kazakhstan,Солтүстік Қазақстан,45244.0
+2019Q4,urban,East Kazakhstan,Шығыс Қазақстан,29089.0
+2019Q4,urban,Astana,Нұр-Сұлтан қаласы,29856.0
+2019Q4,urban,Almaty city,Алматы қаласы,3645.0

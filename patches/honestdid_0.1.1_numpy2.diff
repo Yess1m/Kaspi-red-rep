@@ -1,0 +1,15 @@
+--- honestdid/core.py.orig	2026-09-24 22:51:33.069464444 -0400
++++ honestdid/core.py	2026-09-24 22:51:33.081755159 -0400
+@@ -1018,10 +1018,10 @@
+         e1 = np.zeros(size_B)
+         e1[0] = 1.0
+         v_B = (e1 @ np.linalg.solve(cbind_B, S_B)).reshape(-1, 1)
+-        sigma2_B = float(v_B.T @ sigma_ARP @ v_B)
++        sigma2_B = (v_B.T @ sigma_ARP @ v_B).item()
+         sigma_B = math.sqrt(sigma2_B)
+         rho = (Gamma_B @ sigma_ARP @ v_B / sigma2_B).ravel()
+-        maximand = (-(Gamma_B @ y_T_ARP) / rho) + float(v_B.T @ y_T_ARP)
++        maximand = (-(Gamma_B @ y_T_ARP).ravel() / rho) + (v_B.T @ y_T_ARP).item()
+ 
+         # Truncation values
+         vlo = float(maximand[rho > 0].max()) if np.any(rho > 0) else float('-inf')
